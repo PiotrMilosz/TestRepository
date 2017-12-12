@@ -18,7 +18,7 @@ public class PebTry {
 
 	
 	WebDriver driver=new FirefoxDriver();
-
+//comment
 	@BeforeMethod
 	
 	public void LogInPebx() throws InterruptedException{
